@@ -22,3 +22,8 @@ Finally, the processed data is sent to Google Sheets, where each car listing is 
 1. Ensures consistent and reliable data collection every week
 2. Saves time by automating the entire scraping and logging process
 3. Creates a growing dataset that can be used for analysis or decision-making
+
+### Use Cases
+1. Tracking car prices and market trends over time
+2. Building a dataset for data analysis or machine learning projects
+3. Monitoring new car listings without manually checking the website
