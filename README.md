@@ -11,7 +11,10 @@ The Code (JavaScript) node then parses the converted content and extracts releva
 
 Finally, the processed data is sent to Google Sheets, where each car listing is appended as a new row. Over time, this builds a continuously updated dataset of car listings.
 
+![Smart-Car-Listings-Automation](carlistingsworkflow.png)
+
 ### Purpose of workflow
 1. Automatically collect car listing data on a weekly basis.
 2. Store data in a structured and accessible format.
 3. Eliminate manual data entry and repetitive scraping tasks.
+
