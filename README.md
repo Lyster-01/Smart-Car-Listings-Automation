@@ -18,3 +18,7 @@ Finally, the processed data is sent to Google Sheets, where each car listing is 
 2. Store data in a structured and accessible format.
 3. Eliminate manual data entry and repetitive scraping tasks.
 
+### Why This Is Powerful?
+1. Ensures consistent and reliable data collection every week
+2. Saves time by automating the entire scraping and logging process
+3. Creates a growing dataset that can be used for analysis or decision-making
