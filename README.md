@@ -10,3 +10,8 @@ Since raw HTML is difficult to process directly, the Markdown (HTML to Markdown)
 The Code (JavaScript) node then parses the converted content and extracts relevant car details such as name, price, and other listing attributes. It also formats the data into structured items suitable for storage.
 
 Finally, the processed data is sent to Google Sheets, where each car listing is appended as a new row. Over time, this builds a continuously updated dataset of car listings.
+
+### Purpose of workflow
+1. Automatically collect car listing data on a weekly basis.
+2. Store data in a structured and accessible format.
+3. Eliminate manual data entry and repetitive scraping tasks.
